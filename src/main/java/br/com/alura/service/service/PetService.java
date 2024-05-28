@@ -1,8 +1,7 @@
-package br.com.alura.service;
+package br.com.alura.service.service;
 
-import br.com.alura.client.ClientHttpConfiguration;
-import br.com.alura.client.ClientHttpConfiguration;
-import br.com.alura.domain.Pet;
+import br.com.alura.service.client.ClientHttpConfiguration;
+import br.com.alura.service.domain.Pet;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.google.gson.JsonObject;
 
